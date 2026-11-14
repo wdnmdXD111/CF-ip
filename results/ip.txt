@@ -1,20 +1,20 @@
-104.168.133.207:443#FRA-Frankfurt-Europe
-104.249.159.219:443#SJC-San Jose-North America
-162.159.197.1:443#FRA-Frankfurt-Europe
-117.55.232.150:443#FRA-Frankfurt-Europe
-128.1.186.181:443#SIN-Singapore-Asia Pacific
-136.0.39.54:443#FRA-Frankfurt-Europe
-141.147.152.9:443#KIX-Osaka-Asia Pacific
-207.148.90.139:443#NRT-Tokyo-Asia Pacific
-113.20.3.36:8443#FRA-Frankfurt-Europe
-104.238.140.120:443#FRA-Frankfurt-Europe
-85.237.207.141:443#SJC-San Jose-North America
-140.115.53.51:443#FRA-Frankfurt-Europe
-141.164.44.60:2053#ICN-Seoul-Asia Pacific
-134.209.166.201:2053#EWR-Newark-North America
-185.155.235.58:443#HKG-Hong Kong-Asia Pacific
-172.93.188.25:443#HKG-Hong Kong-Asia Pacific
-129.158.198.241:8443#SJC-San Jose-North America
-141.164.44.60:443#ICN-Seoul-Asia Pacific
-142.91.109.197:443#NRT-Tokyo-Asia Pacific
-188.253.6.249:443#FRA-Frankfurt-Europe
+104.17.145.43:443#FRA-Frankfurt
+104.16.240.177:443#FRA-Frankfurt
+104.17.125.98:443#FRA-Frankfurt
+104.17.145.145:443#FRA-Frankfurt
+188.164.248.18:443#FRA-Frankfurt
+104.17.22.231:443#FRA-Frankfurt
+104.18.33.121:443#SIN-Singapore
+188.164.248.143:443#SJC-San Jose
+198.18.5.202:443#SJC-San Jose
+198.18.5.62:443#SIN-Singapore
+198.18.5.217:443#SIN-Singapore
+198.18.5.218:443#SIN-Singapore
+104.17.187.57:443#FRA-Frankfurt
+104.19.149.171:443#LAX-Los Angeles
+104.19.34.37:443#LAX-Los Angeles
+[2001:2::e1]:443#SJC-San Jose
+198.18.5.101:443#AMS-Amsterdam
+[2001:2::5c7]:443#HKG-Hong Kong
+[2001:2::52b]:443#HKG-Hong Kong
+[2001:2::5c6]:443#HKG-Hong Kong
